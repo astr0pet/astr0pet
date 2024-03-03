@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/852610618300825661.png">
+</p>
 
 <!--
 **astr0pet/astr0pet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
